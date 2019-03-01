@@ -6,3 +6,17 @@ h1{
 }
  body{
 background-size: cover;
+}
+#continue{
+  font-size: 5rem;
+  color: black;
+  float: right;
+  margin-top: 250px;
+font-family: 'Amaranth', sans-serif;
+border-color: black;
+border-radius: 8px;
+cursor: pointer;
+}
+/* .button-accent{
+color: black;
+} */
