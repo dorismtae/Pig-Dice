@@ -5,7 +5,7 @@ h1{
   color: grey;
 }
  body{
-background-size: cover;
+  background-size: cover;
 }
 #continue{
   font-size: 5rem;
@@ -37,18 +37,17 @@ cursor: pointer;
 #back{
   font-size: 2rem;
   color: black;
-
-  margin-top: 600px;
-font-family: 'Amaranth', sans-serif;
-border-color: black;
-border-radius: 8px;
-cursor: pointer;
+    margin-top: 600px;
+  font-family: 'Amaranth', sans-serif;
+  border-color: black;
+  border-radius: 8px;
+  cursor: pointer;
 
 }
 .help{
   font-family: 'Amaranth', sans-serif;
   font-size: 4rem;
-color: green;
+  color: green;
 }
 h4{
   text-align: center;
@@ -66,5 +65,26 @@ color: gold;
   font-size: 2rem;
   color: black;
   border-color: black;
+    margin-top: 100px;
 
+
+}
+h5{
+  text-align: center;
+  font-size: 7rem;
+  font-family: 'Righteous', cursive;
+  color: green;
+
+}
+.game{
+  color:grey;
+  font-size: 3rem;
+  font-family: 'Righteous', cursive;
+  height:150px;
+  width: 400px;
+}
+#roll{
+  font-size: 2rem;
+  color: black;
+  border-color: black;
 }
