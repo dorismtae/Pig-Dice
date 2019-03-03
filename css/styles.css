@@ -45,3 +45,26 @@ border-radius: 8px;
 cursor: pointer;
 
 }
+.help{
+  font-family: 'Amaranth', sans-serif;
+  font-size: 4rem;
+color: green;
+}
+h4{
+  text-align: center;
+  font-size: 7rem;
+  font-family: 'Amaranth', sans-serif;
+color: yellow;
+}
+.Help{
+  font-family: 'Amaranth', sans-serif;
+  font-size: 5rem;
+color: gold;
+
+}
+#close{
+  font-size: 2rem;
+  color: black;
+  border-color: black;
+
+}
