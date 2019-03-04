@@ -64,7 +64,7 @@ color: gold;
 #close{
   float: left;
   border-color: black;
- font-family: 'Amaranth', sans-serif; 
+ font-family: 'Amaranth', sans-serif;
   font-size: 20px;
   color: black;
 
@@ -111,4 +111,8 @@ border-color: black;
   color: white;
   font-weight: bolder;
   font-size: 4rem;
+}
+#emj{
+  width:60px;
+  height:55px;
 }
