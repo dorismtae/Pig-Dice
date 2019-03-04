@@ -62,11 +62,11 @@ color: gold;
 
 }
 #close{
-  font-size: 2rem;
+  font-size: 3rem;
   color: black;
   border-color: black;
     margin-top: 100px;
-
+font-family: 'Amaranth', sans-serif;
 
 }
 h5{
@@ -91,5 +91,14 @@ h5{
 #hold{
   font-size: 2rem;
   color: black;
-  border-color: black;  
+  border-color: black;
+}
+.back{
+  text-align: center;
+  border-color: black;
+font-family: 'Amaranth', sans-serif;
+font-size: 3rem;
+color: black;
+border-color: black;
+
 }
