@@ -62,11 +62,11 @@ color: gold;
 
 }
 #close{
-  font-size: 3rem;
-  color: black;
+  float: left;
   border-color: black;
-    margin-top: 100px;
-font-family: 'Amaranth', sans-serif;
+ font-family: 'Amaranth', sans-serif; 
+  font-size: 20px;
+  color: black;
 
 }
 h5{
@@ -101,4 +101,14 @@ font-size: 3rem;
 color: black;
 border-color: black;
 
+}
+#pig{
+  width: 70px;
+  height: 70px;
+}
+#f{
+  font-family: 'Dancing Script', cursive;
+  color: white;
+  font-weight: bolder;
+  font-size: 4rem;
 }
