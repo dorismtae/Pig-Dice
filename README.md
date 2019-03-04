@@ -17,3 +17,5 @@ This is pig-dice game. This is how the game is played. There are two players, th
 Copyright (c) {2019} **{DORIS MTAE}**
 
 LICENSE
+
+ [MIT LICENSE](LICENSE)
