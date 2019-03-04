@@ -6,6 +6,14 @@ This is pig-dice game. This is how the game is played. There are two players, th
 ## Setup/Installation Requirements
 #### clone: https://dorismtae.github.io/Pig-Dice/
 ## Behavior Driven Development
+|  BEHAVIOR      | INPUT EXAMPLES            | OUTPUT EXAMPLES |  
+|----------------|---------------------------|-----------------|
+| User rolls a 1 |                           | 0               |  
+| User rolls a 2 | 2 is added to the points  | 2               |   
+| User rolls a 3 | 3 is added to the points  | 3               |   
+| User rolls a 4 | 4 is added to the points  | 4               |   
+| User rolls a 5 | 5 is added to the points  | 5               |   
+| User rolls a 6 | 6 is added to the points  | 6               |   
 ## Known Bugs
 { none }
 ## Technologies Used
